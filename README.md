@@ -1,5 +1,7 @@
 # Raylife
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## Описание
 
 Визуальный эксперимент на Python и Pygame, объединяющий клеточный автомат в духе Game of Life с мягкой трассировкой лучей и цветовым взаимодействием клеток.
@@ -30,3 +32,8 @@
 ## Статус
 
 WIP. Основная графическая идея уже реализована, но проект ещё можно развивать настройками правил, новыми типами материалов и более сложной световой физикой.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
